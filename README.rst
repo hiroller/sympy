@@ -15,7 +15,7 @@ info SymPy
 .. |Zenodo Badge| image:: https://zenodo.org/badge/18918/sympy/sympy.svg
    :target: https://zenodo.org/badge/latestdoi/18918/sympy/sympy
 
-A Python library for symbolic mathematics.
+A Python library for symbolic mathematics...
 
 http://sympy.org/
 
